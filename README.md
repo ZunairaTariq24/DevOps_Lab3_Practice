@@ -9,3 +9,6 @@ Another remote Edit
 =======
  NOW MAKING 2ND LOCAL EDIT 
 >>>>>>> 7c9bb05 (2nd LOCAL EDIT)
+Adding new lines and making changes 
+
+
